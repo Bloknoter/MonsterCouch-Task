@@ -1,0 +1,3 @@
+Checking Profiler showed me that there are some drops of FPS while the game was playing. 
+It was caused mainly by Physics calculations, some part was caused by invoking
+FixedUpdate in different scripts. 

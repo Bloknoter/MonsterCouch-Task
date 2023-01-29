@@ -1,0 +1,5 @@
+First, I want to add manual invokation of FixedUpdate directly, so the problem with FPS
+drops while invoking this functions by Unity will be reduced.
+
+Second, I want to add ScriptableObject file, where I will keep common data
+of enemies, so I will save some memory if there are more enemies.
